@@ -2,6 +2,6 @@ name: Workflow error
 on: push
 jobs:
   run:
-    run-on: ubuntu-atest
+    runs-on: ubuntu-atest
     steps:
       - run: date
