@@ -1,4 +1,4 @@
-name: Intermediate environment variables
+name: 3.4 Intermediate environment variables
 on: push
 jobs:
   print:
